@@ -1,7 +1,7 @@
 - Hi, I’m @LoganPickart
 - My passions include lifting, running, hiking, anything outdoors, and cooking.
 - I'm currently a student at Michigan Technological Univeristy majoring in computer science.
-- I'm currently learning Java, Javascript, and Python
+- Check out my projects below!
 
 <!---
 LoganPickart/LoganPickart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
